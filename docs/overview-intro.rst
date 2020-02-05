@@ -4,9 +4,9 @@
 Overview
 =========
 
-.. image:: https://ghbtns.com/github-btn.html?user=gazette&repo=core&type=star&count=true&size=large
-   :target: https://github.com/gazette/core/
-   :alt: GitHubStar
+<html><iframe src="https://ghbtns.com/github-btn.html?user=gazette&repo=core&type=star&count=true&size=large" frameborder="0" scrolling="0" width="134px" height="34
+px"></iframe></html>
+
 .. image:: https://circleci.com/gh/gazette/core.svg?style=svg
    :target: https://circleci.com/gh/gazette/core
    :alt: CircleCI
